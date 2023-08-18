@@ -34,6 +34,7 @@
 | Username        | Techstack | Experience |
 | --------------- | --------- | ---------- |
 | @ozcanzaferayan | Kotlin    | 8          |
+| @mergencdev     | Kotlin    | 3          |
 
 ## iOS
 | Username        | Techstack  | Experience |
